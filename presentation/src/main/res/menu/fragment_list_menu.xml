@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_fragment_list_day_1"
+        android:icon="@drawable/ic_day_1"
+        app:showAsAction="withText"
+        android:title="@string/_1_day"
+        />
+
+    <item
+        android:id="@+id/menu_fragment_list_day_7"
+        android:icon="@drawable/ic_day_7"
+        app:showAsAction="withText"
+        android:title="@string/_7_days"
+        />
+
+    <item
+        android:id="@+id/menu_fragment_list_day_30"
+        android:icon="@drawable/ic_day_30"
+        app:showAsAction="withText"
+        android:title="@string/_30_days"
+        />
+</menu>
